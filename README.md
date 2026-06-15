@@ -46,7 +46,7 @@ https://www.autohotkey.com/
 1.  Install AutoHotkey v2
 2.  Download or clone this repository:
    ```bash
- git clone https://github.com/AProd18/Window-Titlebar-Toggle-for-OLED-Protection
+ git clone https://github.com/AProd18/Window-Titlebar-Toggle-for-OLED-Protection.git
    ```
 3. Run the script:  
    - **Double-click wow-oled.ahk**    
